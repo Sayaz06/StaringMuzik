@@ -1,0 +1,21 @@
+{
+  "name": "Modul Transisi Temporal Audio-Kognitif",
+  "short_name": "AMT-AK",
+  "description": "Modul Transisi Temporal Audio-Kognitif (AMT-AK). Output Produktif Setelah Tamat Audio.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f7f7f7",
+  "theme_color": "#7395ae",
+  "icons": [
+    {
+      "src": "./iconMusic-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./iconMusic-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
